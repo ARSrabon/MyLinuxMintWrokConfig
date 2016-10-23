@@ -1,0 +1,7 @@
+git add folder_name/*     //to add all files in a specific folder
+
+git config credential.helper store   // password store
+
+git branch -D new_kmap_solve // force Delete a branch
+
+git rm --cached -r .idea/*  // To remove some files from git tracking and saving.
